@@ -1,4 +1,5 @@
 add_subdirectory(BrainF)
+add_subdirectory(VLisp)
 add_subdirectory(Fibonacci)
 add_subdirectory(HowToUseJIT)
 add_subdirectory(Kaleidoscope)
